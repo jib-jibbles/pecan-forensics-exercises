@@ -1,3 +1,3 @@
-# pecan-forensics-resources
+# pecan forensics challenge
 
-Wireshark packet capture- 
+Network Forensics with Wireshark
